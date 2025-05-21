@@ -13,8 +13,9 @@ lsp.ensure_installed({
     'python',
     'lua_ls',
     'sqlls',
-    'bash_ls',
-    'eslint'
+    'bashls',
+    'eslint',
+    'zls'
 })
 
 lsp.setup()
